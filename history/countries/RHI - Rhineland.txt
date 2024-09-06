@@ -1,0 +1,17 @@
+government = republic
+add_government_reform = military_dictatorship_reform
+technology_group = western
+primary_culture = hessian
+religion = catholic
+capital = 78	# Frankfurt
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Aedh XIV"
+		dynasty = "mac E�ghain"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}

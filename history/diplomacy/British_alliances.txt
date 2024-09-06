@@ -1,0 +1,22 @@
+dependency = {
+	subject_type = appanage
+	first = BRD
+	second = QNV
+	start_date = 1444.1.1
+	end_date = 1600.8.3
+}
+
+union = {
+	first = BRD
+	second = PDN
+	start_date = 1444.1.1
+	end_date = 1600.1.1
+}
+
+dependency = {
+	subject_type = appanage
+	first = IRE
+	second = GDM
+	start_date = 1444.1.1
+	end_date = 1600.8.3
+}

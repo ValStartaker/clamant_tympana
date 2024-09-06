@@ -1,0 +1,36 @@
+government = theocracy
+add_government_reform = papacy_reform
+government_rank = 2
+primary_culture = cosmopolitan_french
+religion = catholic
+technology_group = western
+capital = 191	# Nevers
+fixed_capital = 191  # Cannot move capital away from this province & no power cost to move to it
+add_army_professionalism = 0.05
+
+change_estate_land_share = {
+	estate = estate_church
+	share = -30
+}
+change_estate_land_share = {
+	estate = estate_burghers
+	share = 5
+}
+change_estate_land_share = {
+	estate = estate_nobles
+	share = 5
+}
+
+1444.1.1 = {
+	monarch = {
+		name = "Marin"
+		birth_date = 1383.3.1
+		adm = 1
+		dip = 2
+		mil = 6
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = just_personality
+	add_ruler_personality = righteous_personality
+}
+

@@ -1,0 +1,23 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = prydeinig
+religion = catholic
+technology_group = western
+capital = 4375	# Chester	
+
+1444.1.1 = {
+	monarch = {
+		name = "Rhys IV"
+		birth_date = 1407.3.1
+		adm = 1
+		dip = 2
+		mil = 6
+		dynasty = "ap Llewellyn"
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = just_personality
+	add_ruler_personality = righteous_personality
+}
+
+

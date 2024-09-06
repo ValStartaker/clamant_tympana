@@ -1,0 +1,19 @@
+culture = swabian
+owner = RHI
+controller = RHI
+add_core = RHI
+capital = "Stuttgart"
+religion = catholic
+trade_goods = grain
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+hre = yes
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

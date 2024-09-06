@@ -1,0 +1,16 @@
+owner = PAP
+controller = PAP 
+capital = "Charolles"
+is_city = yes
+culture = burgundian
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 4
+trade_goods = salt
+base_manpower = 3
+add_core = PAP
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

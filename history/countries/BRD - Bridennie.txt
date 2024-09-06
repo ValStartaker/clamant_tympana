@@ -1,0 +1,23 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 2
+primary_culture = bridennien
+religion = catholic
+technology_group = western
+capital = 236	# London
+
+1444.1.1 = {
+	monarch = {
+		name = "Emris VI"
+		birth_date = 1407.3.1
+		adm = 6
+		dip = 5
+		mil = 3
+		dynasty = "Tamesien"
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = just_personality
+	add_ruler_personality = righteous_personality
+}
+
+
